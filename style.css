@@ -191,3 +191,33 @@
     width: 250px;
     height: 250px;
 }
+.bigbox{
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    background-color: grey;
+    opacity: 0.2;
+    border: solid 5px grey;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 50px;
+}
+.avatarochka{
+    display: flex;
+    margin: auto;
+    margin-top: -700px;
+    margin-left: 50px;
+    background-image: url(https://i.pinimg.com/236x/23/cd/88/23cd88237e1ca6efa6f7eafafbe86192.jpg);
+    border-radius: 75px;
+    background-size: cover;
+    width: 25vw;
+    height: 25vh;
+}
+.text5{
+    display: flex;
+    margin: auto;
+    margin-left: 50%;
+    font-weight: bold;
+    font-size: large;
+    margin-top: -15%;
+}
