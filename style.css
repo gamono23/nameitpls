@@ -1,14 +1,17 @@
-.title{
-    text-align: center;
-    font-family: system-ui, -apple-system, sans-serif;
-    font-size: 30px;
-    margin-top: 0px;
-    color: #505050;
+.navbar-brand{
+    font-family: system-ui, sans-serif;
+    color: rgb(198, 146, 170);
+}
+.euclid{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    border-radius: 50px;
 }
 .line{
     width: 100vw;
     height: 3vh;
-    background-color: grey;
 }
 .backg{
     height: 100vh;
@@ -18,7 +21,7 @@
 .background{
     display: flexbox;
     width: 80vw;
-    height: 101vh;
+    height: 100%;
     background-color: #fee1ff;
     margin-top: -60px;
     margin-left: auto;
