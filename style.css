@@ -21,7 +21,8 @@
     height: 101vh;
     background-color: #fee1ff;
     margin-top: -60px;
-    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 .card1{
     background-color: #fee1ff;
@@ -51,12 +52,12 @@
     margin-left: 19%;
     font-family: system-ui, -apple-system, sans-serif;
     color: black;
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: large;
 }
 .buy1{
     display: flex;
     margin: auto;
-    margin-top: 15%;
     margin-left: 19%;
     font-family: 'Corporative Sans Alt', sans-serif;
     font-size: larger;
@@ -71,4 +72,24 @@
 .buy1:hover{
     background: rgb(81, 71, 189);
     opacity: 1;
+}
+.image2{
+    width: 150px;
+    height: 150px;
+    background-image: url(https://i.pinimg.com/236x/48/28/6e/48286e8b87cf82d48b99318fd19a15b5.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 24px;
+    margin-top: 7.5px;
+}
+.image3{
+    width: 150px;
+    height: 150px;
+    background-image: url(https://i.pinimg.com/236x/bd/de/68/bdde68fb06cd75f21bad4f7c1beaed80.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 24px;
+    margin-top: 7.5px;
 }
