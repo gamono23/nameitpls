@@ -3,7 +3,7 @@
     font-family: system-ui, -apple-system, sans-serif;
     font-size: 30px;
     margin-top: 0px;
-    color: #fbf0ee;
+    color: #505050;
 }
 .line{
     width: 100vw;
@@ -19,15 +19,15 @@
     display: flexbox;
     width: 80vw;
     height: 101vh;
-    background-color: #efb3b5;
+    background-color: #fee1ff;
     margin-top: -60px;
     justify-content: center;
 }
 .card1{
-    background-color: #fbf0ee;
+    background-color: #fee1ff;
     width: 250px;
     height: 250px;
-    border: solid 2px;
+    border: solid 2px #fee1ff;
     border-radius: 24px;
 }
 .image1{
@@ -39,6 +39,15 @@
     margin-right: auto;
     border-radius: 24px;
     margin-top: 7.5px;
+}
+.text1{
+    margin-left: 17%;
+    font-family: system-ui, -apple-system, sans-serif;
+    
+}
+.cost1{
+    font-family: system-ui, -apple-system, sans-serif;
+    color: grey;
 }
 .buy1{
     display: flex;
