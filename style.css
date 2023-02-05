@@ -1,0 +1,46 @@
+.title{
+    text-align: center;
+    font-family: system-ui, -apple-system, sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+    color: #fbf0ee;
+}
+.line{
+    width: 100vw;
+    height: 3vh;
+    background-color: grey;
+}
+.backg{
+    height: 100vh;
+    width: 100vw;
+    background-color: #fbf0ee;
+}
+.background{
+    display: flexbox;
+    width: 80vw;
+    height: 101vh;
+    background-color: #efb3b5;
+    margin-top: -60px;
+    justify-content: center;
+}
+.card1{
+    background-color: #fbf0ee;
+    width: 250px;
+    height: 250px;
+    border: solid 2px;
+    border-radius: 24px;
+}
+.image1{
+    width: 125px;
+    height: 125px;
+    background-image: url(https://i.pinimg.com/236x/da/e7/b1/dae7b1f863c59ff3e8a45e3070cf72d3.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 24px;
+    margin-top: 7.5px;
+}
+.buy1{
+    display: flex;
+    margin: auto;
+}
