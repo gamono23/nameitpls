@@ -34,15 +34,17 @@
     border: solid 2px #fee1ff;
     border-radius: 24px;
 }
-.image1{
+.images{
     width: 150px;
     height: 150px;
-    background-image: url(https://i.pinimg.com/236x/da/e7/b1/dae7b1f863c59ff3e8a45e3070cf72d3.jpg);
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
     border-radius: 24px;
     margin-top: 7.5px;
+}
+.image1{
+    background-image: url(https://i.pinimg.com/236x/da/e7/b1/dae7b1f863c59ff3e8a45e3070cf72d3.jpg);
 }
 .text1{
     margin-left: 19%;
@@ -77,84 +79,28 @@
     opacity: 1;
 }
 .image2{
-    width: 150px;
-    height: 150px;
     background-image: url(https://i.pinimg.com/236x/48/28/6e/48286e8b87cf82d48b99318fd19a15b5.jpg);
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-    margin-top: 7.5px;
 }
 .image3{
-    width: 150px;
-    height: 150px;
     background-image: url(https://i.pinimg.com/236x/bd/de/68/bdde68fb06cd75f21bad4f7c1beaed80.jpg);
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-    margin-top: 7.5px;
 }
 .image4{
-    width: 150px;
-    height: 150px;
     background-image: url(https://i.pinimg.com/236x/b6/e0/60/b6e06048f718f448e9108f1a37987758.jpg);
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-    margin-top: 7.5px;
 }
 .image5{
-    width: 150px;
-    height: 150px;
     background-image: url(https://i.pinimg.com/236x/a2/57/4c/a2574c5c68f4c71bb067752e6772beed.jpg);
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-    margin-top: 7.5px;
 }
 .image6{
-    width: 150px;
-    height: 150px;
     background-image: url(https://i.pinimg.com/236x/39/ce/5b/39ce5b6f8b29ba75e38b4c9686dafdeb.jpg);
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-    margin-top: 7.5px;
 }
 .image7{
-    width: 150px;
-    height: 150px;
     background-image: url(https://i.pinimg.com/236x/bc/64/d2/bc64d2b9398485e2b3bb8b17d834c8ed.jpg);
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-    margin-top: 7.5px;
 }
 .image8{
-    width: 150px;
-    height: 150px;
     background-image: url(https://i.pinimg.com/236x/fd/58/ec/fd58ec4d56fb53e2ec145a7eeef2ba06.jpg);
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-    margin-top: 7.5px;
 }
 .image9{
-    width: 150px;
-    height: 150px;
     background-image: url(https://i.pinimg.com/236x/0b/17/a1/0b17a1bd0ad5ad4348070fbb2939fd02.jpg);
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 24px;
-    margin-top: 7.5px;
 }
 .landingimage{
     display: flex;
