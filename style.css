@@ -21,7 +21,7 @@
 .background{
     display: inline-flexbox;
     width: 80vw;
-    height: 150%;
+    height: 150vh;
     background-color: #fee1ff;
     margin-top: -60px;
     margin-left: auto;
