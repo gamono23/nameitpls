@@ -14,11 +14,9 @@
     height: 3vh;
 }
 .backg{
-    display: flex;
     height: 100vh;
     width: 100vw;
     background-color: #fbf0ee;
-    position: fixed;
 }
 .background{
     display: flex;
