@@ -19,13 +19,13 @@
     background-color: #fbf0ee;
 }
 .background{
+    position:fixed;
     width: 80vw;
     height: 100%;
     background-color: #fee1ff;
     margin-top: -60px;
     margin-left: auto;
-    margin-right: auto;
-    position: fixed;
+    margin-right:auto;
 }
 .card1{
     background-color: #fee1ff;
