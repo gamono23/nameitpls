@@ -14,13 +14,14 @@
     height: 3vh;
 }
 .backg{
+    display: flex;
     height: 100vh;
     width: 100vw;
     background-color: #fbf0ee;
     position: fixed;
 }
 .background{
-    display: flexbox;
+    display: flex;
     width: 80vw;
     height: 100%;
     background-color: #fee1ff;
