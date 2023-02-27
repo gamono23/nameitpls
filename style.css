@@ -19,7 +19,7 @@
     background-color: #fbf0ee;
 }
 .background{
-    position:fixed;
+    display: inline-flexbox;
     width: 80vw;
     height: 100%;
     background-color: #fee1ff;
