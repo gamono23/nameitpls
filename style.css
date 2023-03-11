@@ -14,18 +14,19 @@
     height: 3vh;
 }
 .backg{
-    height: 100vh;
-    width: 100vw;
+    height: 110vh;
+    width: 110vw;
     background-color: #fbf0ee;
 }
 .background{
-    display: flexbox;
+    display: inline-block;
     width: 80vw;
     height: 150vh;
     background-color: #fee1ff;
     margin-top: -60px;
     margin-left: auto;
     margin-right:auto;
+    position: relative;
 }
 .card1{
     background-color: #fee1ff;
