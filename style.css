@@ -19,13 +19,11 @@
     background-color: #fbf0ee;
 }
 .background{
-    display: inline-block;
     width: 80vw;
-    height: 150vh;
+    height: 150%;
     background-color: #fee1ff;
-    overflow: scroll;
+    margin: auto;
     position: relative;
-
 }
 .card1{
     background-color: #fee1ff;
