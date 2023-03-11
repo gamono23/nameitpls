@@ -23,8 +23,7 @@
     width: 80vw;
     height: 150vh;
     background-color: #fee1ff;
-    margin: auto;
-    margin-bottom: -500px;
+    overflow: scroll;
     position: relative;
 
 }
