@@ -26,7 +26,7 @@
     margin-top: -60px;
     margin-left: auto;
     margin-right:auto;
-    position: relative;
+    position: sticky; /* СУКА Я НЕ МОГУ У МЕНЯ ФОН НА САЙТЕ НЕ НОРМАЛЬНО ПОКАЗЫВАЕТСЯ */
 }
 .card1{
     background-color: #fee1ff;
