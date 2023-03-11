@@ -24,8 +24,9 @@
     height: 150vh;
     background-color: #fee1ff;
     margin: auto;
-    margin-bottom: 100px;
+    margin-bottom: -500px;
     position: relative;
+
 }
 .card1{
     background-color: #fee1ff;
