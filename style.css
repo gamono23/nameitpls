@@ -23,10 +23,8 @@
     width: 80vw;
     height: 150vh;
     background-color: #fee1ff;
-    margin-top: -60px;
-    margin-left: auto;
-    margin-right:auto;
-    position: absolute;
+    margin: auto;
+    position: relative;
 }
 .card1{
     background-color: #fee1ff;
