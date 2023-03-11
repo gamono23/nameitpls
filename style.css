@@ -19,7 +19,7 @@
     background-color: #fbf0ee;
 }
 .background{
-    display: inline-flexbox;
+    display: flexbox;
     width: 80vw;
     height: 150vh;
     background-color: #fee1ff;
